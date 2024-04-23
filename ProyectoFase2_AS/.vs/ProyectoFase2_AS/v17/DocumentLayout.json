@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sochd\\source\\repos\\ProyectoFase2_AS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87AB08A1-CA55-4A4E-B22F-AE1295C1299A}|ProyectoFase2_AS\\ProyectoFase2_AS.dwproj|C:\\Users\\sochd\\source\\repos\\ProyectoFase2_AS\\ProyectoFase2_AS\\Cubo_Compra.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{87AB08A1-CA55-4A4E-B22F-AE1295C1299A}|ProyectoFase2_AS\\ProyectoFase2_AS.dwproj|solutionrelative:ProyectoFase2_AS\\Cubo_Compra.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cubo_Compra.cube [Design]",
+              "DocumentMoniker": "C:\\Users\\sochd\\source\\repos\\ProyectoFase2_AS\\ProyectoFase2_AS\\Cubo_Compra.cube",
+              "RelativeDocumentMoniker": "ProyectoFase2_AS\\Cubo_Compra.cube",
+              "ToolTip": "C:\\Users\\sochd\\source\\repos\\ProyectoFase2_AS\\ProyectoFase2_AS\\Cubo_Compra.cube [Design]",
+              "RelativeToolTip": "ProyectoFase2_AS\\Cubo_Compra.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-23T17:33:05.505Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
